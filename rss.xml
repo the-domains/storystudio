@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[storystudio]]></title>
         <description><![CDATA[storystudio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/storystudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 21:54:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 22:00:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/storystudio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Your Brain Loves Good Storytelling]]></title>
+            <description><![CDATA[<article><h1>Why Your Brain Loves Good Storytelling</h1><p>Create a FREE account to: Get 15 free articles per month* Access to personalized content Save articles and create shareable folders in your personal HBR library Get 20% off your first order using code HBRORGREG3** *not including articles that are exclusively for Harvard Business Review magazine subscribers **does not include</p><img src="https://hbr.org/resources/images/article_assets/2014/10/20141029_1.jpg"></article>]]></description>
+            <link>https://hbr.org/2014/10/why-your-brain-loves-good-storytelling/</link>
+            <guid isPermaLink="false">0ef3643d-c43e-4bff-aaba-471a403b3061</guid>
+            <pubDate>Tue, 12 Jan 2016 22:00:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The art of Storytelling]]></title>
             <description><![CDATA[<article><h1>The art of Storytelling</h1><p>Recently I happened to see a movie called "Tamasha" in which the central theme of the film was around the protagonist who was influenced by storytelling and went on to become a great storyteller and stage artist himself.</p><img src="https://cdn-images-1.medium.com/max/1200/1*Ih9ut6B8P5ky0q1sj1SiQg.jpeg"></article>]]></description>
