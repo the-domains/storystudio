@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[storystudio]]></title>
+        <description><![CDATA[storystudio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 21:54:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The art of Storytelling]]></title>
+            <description><![CDATA[<article><h1>The art of Storytelling</h1><p>Recently I happened to see a movie called "Tamasha" in which the central theme of the film was around the protagonist who was influenced by storytelling and went on to become a great storyteller and stage artist himself.</p><img src="https://cdn-images-1.medium.com/max/1200/1*Ih9ut6B8P5ky0q1sj1SiQg.jpeg"></article>]]></description>
+            <link>https://medium.com/@balablogs/the-art-of-story-telling-1a6d154e7cfa#.yf9curu38</link>
+            <guid isPermaLink="false">a57dfa92-9571-4516-a0b7-ad3792aeac0c</guid>
+            <pubDate>Tue, 12 Jan 2016 21:54:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
