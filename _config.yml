@@ -1,0 +1,28 @@
+name: storystudio
+favicon: null
+layout_spectrum: 0.3900829709600657
+typography_spectrum: 0.854952669236809
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.609216280747205
+  lightness: 0.28068594145588577
+  saturation: 0.1346295189578086
+  rhythmicContrast: 0.14111706265248358
+purpose: []
